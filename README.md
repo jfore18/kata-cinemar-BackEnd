@@ -12,14 +12,14 @@ Visual Code
   
 spring tools suite
 
-- file
-- import
-- selecciona la carpeta maven
-- existing maven projects
-- selecciona el projecto
+- Seleccione File
+- Seleccione Import
+- Selecciona la carpeta maven
+- Existing maven projects
+- Selecciona el projecto
 - En la parte inferior izquierda aparecera el boot dashboard
-- selecciona el proyecto y le da click derecho
-- start (sube el servicio)
+- Selecciona el proyecto y le da click derecho
+- Start (sube el servicio)
   
   3) crear peticiones json desde postman llamando los postmapping o los getmapping que se encuentran en la clase controller
 
